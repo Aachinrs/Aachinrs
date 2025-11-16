@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Aachinrs/Aachinrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Sri Charan 👋
 
-Here are some ideas to get you started:
+I'm a first-year CSE student exploring programming and building my fundamentals.
+Right now, I'm learning C and focusing on improving my logic, problem-solving,
+and clean coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning
+- C Programming
+- Fundamental CS concepts
+- Git & GitHub
+
+## ✅ What I've Learned So Far
+- Basics of C (syntax, variables, data types)
+- Decision making (if-else, switch)
+- Loops (for, while, do-while)
+- Functions & recursion
+
+## 🎯 Goals for 2025
+- Complete C programming 
+- Start learning Python
+- Build small beginner projects
+
+## 📬 Connect With Me
+Instagram: **@aachinrrs**  
+LinkedIn: **https://www.linkedin.com/in/sri-charan-kota-3b5b2b38b/**
+
+## 📌 Note
+This profile tracks the progress of my coding journey :)
