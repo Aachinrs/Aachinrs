@@ -22,7 +22,7 @@ and clean coding skills.
 - Build small beginner projects
 
 ## 📬 Connect With Me
-Instagram: **@aachinrrs**  
+Instagram: **https://www.instagram.com/aachinrrs/**  
 LinkedIn: **https://www.linkedin.com/in/sri-charan-kota-3b5b2b38b/**
 
 ## 📌 Note
