@@ -15,6 +15,8 @@ and clean coding skills.
 - Decision making (if-else, switch)
 - Loops (for, while, do-while)
 - Functions & recursion
+- sorting
+- arrays & pointers
 
 ## 🎯 Goals for 2025
 - Complete C programming 
