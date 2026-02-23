@@ -2,11 +2,11 @@
 # Hello, I'm Sri Charan 👋
 
 I'm a first-year CSE student exploring programming and building my fundamentals.
-Right now, I'm learning C and focusing on improving my logic, problem-solving,
+Right now, I'm learning ptyhon and focusing on improving my logic, problem-solving,
 and clean coding skills.
 
 ## 📚 What I'm Learning
-- C Programming
+- Python
 - Fundamental CS concepts
 - Git & GitHub
 
