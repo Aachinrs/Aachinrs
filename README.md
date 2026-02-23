@@ -11,17 +11,10 @@ and clean coding skills.
 - Git & GitHub
 
 ## ✅ What I've Learned So Far
-- Basics of C (syntax, variables, data types)
-- Decision making (if-else, switch)
-- Loops (for, while, do-while)
-- Functions & recursion
-- sorting
-- arrays & pointers
-
-## 🎯 Goals for 2025
-- Complete C programming 
-- Start learning Python
-- Build small beginner projects
+- C language
+- python basics
+## 🎯 Goals for 2026
+- learn java and python
 
 ## 📬 Connect With Me
 Instagram: **https://www.instagram.com/aachinrrs/**  
